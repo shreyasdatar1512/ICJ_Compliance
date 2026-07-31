@@ -7,7 +7,7 @@ I record the follwing variables in the dataset:
 | `Case`            | Name of the ICJ case or consolidated dispute                                                                                                              |
 | `Party1`          | Applicant state, coded `1` for Global North and `0` for Global South                                                                                      |
 | `Party2`          | Respondent state, coded `1` for Global North and `0` for Global South                                                                                     |
-| `SignedPowerDiff` | Difference between the party classifications: `Party1 - Party2`                                                                                           |
+| `Diff` | Difference between the party classifications: `Party1 - Party2`                                                                                           |
 | `PowerDifference` | Absolute value of `SignedPowerDiff`; coded `1` where a power asymmetry was identified and `0` otherwise                                                   |
 | `Compliance`      | Coded `1` where the judgment received timely and substantive compliance and `0` where compliance was absent, substantially delayed, partial, or contested |
 
