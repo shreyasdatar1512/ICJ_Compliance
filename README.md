@@ -8,7 +8,7 @@ I record the follwing variables in the dataset:
 | `Party1`          | Applicant state, coded `1` for Global North and `0` for Global South                                                                                      |
 | `Party2`          | Respondent state, coded `1` for Global North and `0` for Global South                                                                                     |
 | `PowerDiff` | Difference between the party classifications: `Party1 - Party2`                                                                                           |
-| `PowerDifference` | Absolute value of `PowerDiff`; coded `1` where a power asymmetry was identified and `0` otherwise                                                   |
+| `ModDiff` | Absolute value of `PowerDiff`; coded `1` where a power asymmetry was identified and `0` otherwise                                                   |
 | `Compliance`      | Coded `1` where the judgment received timely and substantive compliance and `0` where compliance was absent, substantially delayed, partial, or contested |
 
 The Global North–Global South classification is primarily based on the United Nations Conference on Trade and Development (UNCTAD) classification of developed and developing economies. In a limited number of cases, the classification was adjusted where the parties displayed an especially clear difference in economic, military, territorial, or geopolitical power that was not adequately captured by the UNCTAD framework.
