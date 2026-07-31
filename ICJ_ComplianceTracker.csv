@@ -1,6 +1,6 @@
 ﻿ICJ Contentious Cases Database,,,,,,,,
 Shreyas Datar,,,,,,,,
-Case,Party1,Party2,PowerDiff,ModDiff,Compliance,Category,Relatively stronger non-complying,Geopolitcal rivalry / Territorial disputes
+Case,Party1,Party2,PowerDiff,ModDiff,Compliance,Category,Relatively Noncomply_Power,Territory_Geopolitcal_Rivalry
 Corfu Channel (United Kingdom of Great Britain and Northern Ireland v. Albania),1,0,1,1,0,1,0,0
 Fisheries (United Kingdom v. Norway),1,1,0,0,1,-1,,
 Haya de la Torre (Colombia v. Peru),0,0,0,0,0,0,,0
