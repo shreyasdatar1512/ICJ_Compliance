@@ -15,6 +15,8 @@ The Global North–Global South classification is primarily based on the United 
 
 The variable PowerDifference should therefore be understood as a rough proxy for conspicuous relative power asymmetry, rather than a precise qualitative label.
 
+Additionally, in cases where a power asymmetry and non-compliance is noted, a separate  variable “Noncomply_Power” is coded to 1 where the “stronger” state (State having a power advantage) shows noncompliance, and to 0 where the “weaker” state shows noncompliance. In all cases except those which record no power symmetry and compliance, the variable “Territory_Geopolitcal_Rivalry” codes to 1 where the basis of the case is a territorial dispute or where the countries exhibit a well-established geopolitical rivalry, and codes to 0 otherwise.
+
 Compliance was coded using publicly available materials, including ICJ documents, government statements, official press releases, academic research, and academic and media reports on post-judgment compliance. The standard adopted for the purposes of this dataset was that of _substantive_ and _timely_ compliance. The legal foundations and implications of this standard are discussed in the paper.
 
 
