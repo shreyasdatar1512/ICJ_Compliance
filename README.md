@@ -12,4 +12,10 @@ I record the follwing variables in the dataset:
 | `Compliance`      | Coded `1` where the judgment received timely and substantive compliance and `0` where compliance was absent, substantially delayed, partial, or contested |
 
 The Global North–Global South classification is primarily based on the United Nations Conference on Trade and Development (UNCTAD) classification of developed and developing economies. In a limited number of cases, the classification was adjusted where the parties displayed an especially clear difference in economic, military, territorial, or geopolitical power that was not adequately captured by the UNCTAD framework. The paper associated with the dataset discusses the theoretical issues pertaining to the classification of states on the basis of "power".
+
 The variable PowerDifference should therefore be understood as a rough proxy for conspicuous relative power asymmetry, rather than a precise qualitative label.
+
+Compliance was coded using publicly available materials, including ICJ documents, government statements, official press releases, academic research, and academic and media reports on post-judgment compliance. The standard adopted for the purposes of this dataset was that of _substantive_ and _timely_ compliance. The legal foundations and implications of this standard are discussed in the paper.
+
+
+
