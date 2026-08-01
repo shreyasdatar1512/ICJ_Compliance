@@ -1,4 +1,4 @@
-The file contains a dataset of 63 contentious cases before the International Court of Justice (ICJ) in which the ICJ: (a) rendered a final judgment on merits, and (b) imposed positive or negative obligation(s) capable of substantive compliance.
+The file contains a dataset of 63 contentious cases before the International Court of Justice (ICJ) in which the ICJ: (a) rendered a final judgment on merits, and (b) imposed positive or negative obligation(s) capable of substantive compliance. I analyse the findings through an empirical legal lens [here](https://shreyasdatar.substack.com/p/state-power-asymmetry-and-compliance).
 
 I record the follwing variables in the dataset: 
 
