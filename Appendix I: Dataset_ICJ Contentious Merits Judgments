@@ -1,5 +1,3 @@
-Appendix I: Dataset
-
 ICJ Contentious Cases Database,,,,,,,,
 Shreyas Datar,,,,,,,,
 Case,Party1,Party2,PowerDiff,ModDiff,Compliance,ModDiff - Compliance, Noncomply_Power,Territory_Geopolitcal_Rivalry
